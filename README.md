@@ -29,6 +29,3 @@ A simple, lightweight **Text Editor** built using **Java Swing**. This editor su
 2. Make sure Java is installed and properly configured.
 3. Compile and run the `GUI.java` file:
 
-```bash
-javac GUI.java Format.java
-java GUI
